@@ -2,7 +2,7 @@
   "development": {
     "username": "Ruy",
     "password": "dankdb420",
-    "database": "caseta_adv_server_dev",
+    "database": "adv_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
